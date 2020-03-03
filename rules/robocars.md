@@ -12,7 +12,7 @@
 ## Race results, points & standings 
 
 * Race result point are attributed following race finish order from 1st to 10th  
-25 – 18 - 15 – 12 – 10 – 8 – 6 – 4 – 2 – 1
+25 - 18 - 15 - 12 - 10 - 8 - 6 - 4 - 2 - 1
 * Cars must succeed at a race to get the race points.  
 For example, in a Sprint Race a car not achieving 2 laps will not get points even if it is the best performance
 * Race result points are ajusted through the difficulty factor of each race  
