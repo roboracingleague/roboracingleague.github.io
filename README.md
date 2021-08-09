@@ -19,6 +19,7 @@
 10. @Olivier Bourrassé
 11. @Michael
 12. @Hongjie ZHANG
+13. @Alfredo Rubio
 
 ### Rules
 [Robocars season 9 rules](rules/robocars.md)
