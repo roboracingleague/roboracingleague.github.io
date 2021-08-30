@@ -25,8 +25,8 @@
 16. Epita-4 (Alpine)
 17. @Romain M (Trooper)
 18. @Jérôme Z (Trooper)
-19. @Jean-Marc H / @Romain S (Fox)
-20. @Inconnu (Trooper HPI)
+19. @Jean-Marc H / @Romain S (Trooper HPI)
+20. @Elvio B (Fox)
 21. @Armand PL
 22. @Cyrille N (Trooper)
 
