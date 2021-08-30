@@ -26,6 +26,9 @@
 17. @Romain M (Trooper)
 18. @Jérôme Z (Trooper)
 19. @Jean-Marc H / @Romain S (Fox)
+20. @Inconnu (Trooper HPI)
+21. @Armand PL
+22. @Cyrille N (Trooper)
 
 ### Rules
 [Robocars season 9 rules](rules/robocars.md)
