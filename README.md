@@ -1,6 +1,12 @@
 # Robo Racing League Guide
 ## Season 9
 
+### 3 Prizes
+- Jetson Nano 4Go
+- Intel D435 depth camera or similar
+- Google Coral USB Stick
+Prizes chosen in the order of the season's final standings
+
 ### 3 Races
 1. 23 octobre @ EPITA (9h-13h30)
 2. 20 novembre @ RD (9h-13h30)
