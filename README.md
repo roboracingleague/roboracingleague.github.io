@@ -5,6 +5,7 @@
 - Jetson Nano 4Go
 - Intel D435 depth camera or similar
 - Google Coral USB Stick
+
 Prizes chosen in the order of the season's final standings
 
 ### 3 Races
