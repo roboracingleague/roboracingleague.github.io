@@ -32,9 +32,9 @@ Prizes chosen in the order of the season's final standings
 16. (?,?,?) Epita-4 (Alpine GT4 Interceptor)
 17. (?,?,?) @Romain M (Trooper)
 18. (O,?,?) @Jérôme Z (Trooper)
-19. (N,?,?) @Jean-Marc H / @Romain S (Trooper HPI)
-20. (N,?,?) @Elvio B (Fox)
-21. (?,?,?) @Armand PL
+19. (N,?,?) @Jean-Marc H / @Romain S (Trooper HPI) / @Nicolas G?
+20. (N,?,?) @Elvio B (Fox) / @Nicolas B / @Mustapha
+21. (O,?,?) @Armand PL
 22. (?,?,?) @Cyrille N (Trooper)
 
 ### Rules
