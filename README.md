@@ -35,7 +35,7 @@ Prizes chosen in the order of the season's final standings
 19. (N,?,?) @Jean-Marc H / @Romain S (Trooper HPI) / @Nicolas G?
 20. (N,?,?) @Elvio B (Fox) / @Nicolas B / @Mustapha
 21. (O,?,?) @Armand PL
-22. (?,?,?) @Cyrille N (Trooper)
+22. (O,?,?) @Cyrille N (Trooper)
 
 ### Rules
 [Robocars season 9 rules](rules/robocars.md)
