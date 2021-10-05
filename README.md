@@ -23,7 +23,7 @@ Prizes chosen in the order of the season's final standings
 7. (O,?,?) @Étienne L
 8. (?,?,?) @Yassir K
 9. (?,?,?) @Olivier B (Challenger SRT Interceptor)
-10. (?,?,?) @Michael
+10. (O,?,?) @Michaelp
 11. (?,?,?) @Hongjie Z (Trooper)
 12. (O,?,?) @Alfredo R (Alpine GT4)
 13. (?,?,?) Epita-1 (Alpine GT4 Interceptor)
