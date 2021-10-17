@@ -14,8 +14,8 @@ Prizes chosen in the order of the season's final standings
 3. 11 décembre @ RD (9h-13h30)
 
 ### Teams by registration number
-1. (?,?,?) @Alexis B
-2. (?,?,?) @Benoit T (Trooper)
+1. (N,?,?) @Alexis B
+2. (O,?,?) @Benoit T (Trooper)
 3. (N,?,?) @Corentin
 4. (N,?,?) @Seb (Trooper)
 5. (O,?,?) @reda / @Yacine (Alpine GT4 Interceptor)
@@ -30,7 +30,7 @@ Prizes chosen in the order of the season's final standings
 14. (?,?,?) Epita-2 (Alpine GT4 Interceptor)
 15. (?,?,?) Epita-3 (Alpine GT4 Interceptor)
 16. (?,?,?) Epita-4 (Alpine GT4 Interceptor)
-17. (?,?,?) @Romain M (Trooper)
+17. (O,?,?) @Romain M (Trooper)
 18. (O,?,?) @Jérôme Z (Trooper)
 19. (N,?,?) @Jean-Marc H / @Romain S (Trooper) / @Nicolas G?
 20. (N,?,?) @Elvio B (Fox) / @Nicolas B / @Mustapha
