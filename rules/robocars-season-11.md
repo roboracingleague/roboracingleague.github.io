@@ -76,7 +76,7 @@
 
 ## Piste
 
-* Il y aura 2 piste, la urban track et la speed track. Les tracés seront communiqués sous peu.
+* Il y aura 2 pistes, la urban track et la speed track. Les tracés seront communiqués sous peu.
 
 * Court-circuiter un virage en passant à l'intérieur d'un cône ou en touchant se dernier annule l'essai ou la manche en cours pour le fautif
 
