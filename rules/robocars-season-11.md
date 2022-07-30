@@ -6,12 +6,12 @@ Règlement DIY Robocars France Saison 11
 * Implémenter l'évitement de voitures obstacles statiques sur la piste
 
 ## Calendrier des 6 journées de courses
-* 10 septembre 2022 au Cristallin
-*  8 octobre   2022 au Cristallin
-*  5 novembre  2022 au Cristallin
-*  3 décembre  2022 au Cristallin
-*  7 janvier   2022 au Cristallin
-* 28 janvier   2022 au Cristallin
+* 10 septembre 2022 au Cristallin (lieu peut changer)
+*  8 octobre   2022 au Cristallin (lieu peut changer)
+*  5 novembre  2022 au Cristallin (lieu peut changer)
+*  3 décembre  2022 au Cristallin (lieu peut changer)
+*  7 janvier   2022 au Cristallin (lieu peut changer)
+* 28 janvier   2022 au Cristallin (lieu peut changer)
 
 ## Robocar
 * Echelle entre 1/18 et 1/10 (1/10 recommandé)
