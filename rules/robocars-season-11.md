@@ -5,7 +5,7 @@ Règlement DIY Robocars France Saison 11
 * Exploiter l'accélération et le freinage des voitures pour améliorer les temps
 * Implémenter l'évitement de voitures obstacles statiques sur la piste
 
-## Calendrier des 6 journées de course
+## Calendrier des 6 journées de courses
 * 10 septembre 2022 au Cristallin
 *  8 octobre   2022 au Cristallin
 *  5 novembre  2022 au Cristallin
