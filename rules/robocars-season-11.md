@@ -5,7 +5,7 @@ Règlement DIY Robocars France Saison 11
 * Exploiter l'accélération et le freinage des voitures pour améliorer les temps
 * Implémenter l'évitement de voitures obstacles statiques sur la piste
 
-## Calendrier des journées de course
+## Calendrier des 6 journées de course
 * 10 septembre 2022 au Cristallin
 *  8 octobre   2022 au Cristallin
 *  5 novembre  2022 au Cristallin
@@ -21,6 +21,7 @@ Règlement DIY Robocars France Saison 11
 * Les IMUs sont recommandés
 * Un émetteur spécifique pour le système de chronométrage sera peut-être obligatoire
 * Les LIDARs sont autorisés mais non recommandés (Meetup basé sur la vision) et placent automatiquement la voiture dans une catégorie spécifique LIDAR
+* Les carrosseries ne sont pas obligatoires mais permettent d'obtenir des point de championnat bonus
 
 ## Courses
 * **Urban Sprint** CW+CCW – with obstacles (CW = ClockWise / CCW = Counter ClockWise)
@@ -96,6 +97,9 @@ Un panneau à 1m de l'entrée du virage sera également disposé pour le freinag
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des course, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
+* Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée.  12 points de présence seront donc attribués lors de chaque course aux participants
+* La présence d'une carrosserie sera également récompensée par 12 points de championnat
+* Les 6 journée de course devraient permettre d'organiser 18 courses, les 15 meilleures courses de chaque voiture seront comptabilisés
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
 
 ## Journée de course type
@@ -106,9 +110,9 @@ Arrivée racers 9h - 9h30 au plus tard
 - 11h30 - 12h30 Sprint CW+CCW (w obstacles)
 - 12h30 - 13h30 Battle CW or CCW alternate (w obstacles)
 - 13H30 - 13h45 Preparation SPEED TRACK
-- 13h45 - 14h45 SpEED CW+CCW (wo obstacles)
-- 14h45 - 15h00 DEBRIEF
+- 13h45 - 14h45 Speed CW+CCW (wo obstacles)
+- 14h45 - 15h00 Debrief
 
 * Essais libres
-- 15h00 - 16h45 PISTE LIBRE
-- 16h45 - 17h00 RANGEMENT et FERMETURE
+- 15h00 - 16h45 Piste libre
+- 16h45 - 17h00 Rangement et Fermeture
