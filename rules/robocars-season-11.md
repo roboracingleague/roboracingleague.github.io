@@ -111,14 +111,14 @@ Un panneau à 1m de l'entrée du virage sera également disposé pour le freinag
 ## Journée de course type
 Arrivée racers 9h - 9h30 au plus tard
 * Courses
-- Installation piste 9h-10h 
-- 10h00 - 11h30 essais libres
-- 11h30 - 12h30 Sprint CW+CCW (w obstacles)
-- 12h30 - 13h30 Battle CW or CCW alternate (w obstacles)
-- 13H30 - 13h45 Preparation SPEED TRACK
-- 13h45 - 14h45 Speed CW+CCW (wo obstacles)
-- 14h45 - 15h00 Debrief
+  - Installation piste 9h-10h 
+  - 10h00 - 11h30 essais libres
+  - 11h30 - 12h30 Sprint CW+CCW (w obstacles)
+  - 12h30 - 13h30 Battle CW or CCW alternate (w obstacles)
+  - 13H30 - 13h45 Preparation SPEED TRACK
+  - 13h45 - 14h45 Speed CW+CCW (wo obstacles)
+  - 14h45 - 15h00 Debrief
 
 * Essais libres
-- 15h00 - 16h45 Piste libre
-- 16h45 - 17h00 Rangement et Fermeture
+  - 15h00 - 16h45 Piste libre
+  - 16h45 - 17h00 Rangement et Fermeture
