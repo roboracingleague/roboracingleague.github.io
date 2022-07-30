@@ -97,8 +97,10 @@ Un panneau à 1m de l'entrée du virage sera également disposé pour le freinag
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des course, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
-* Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée.  12 points de présence seront donc attribués lors de chaque course aux participants
-* La présence d'une carrosserie sera également récompensée par 12 points de championnat
+* Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
+12 points de présence seront donc attribués lors de chaque course aux participants
+* La présence d'une carrosserie sera également récompensée.  
+12 points de championnat par course effectuée avec une carrosserie
 * Les 6 journée de course devraient permettre d'organiser 18 courses, les 15 meilleures courses de chaque voiture seront comptabilisés
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
 
