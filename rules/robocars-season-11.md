@@ -82,6 +82,10 @@ Règlement DIY Robocars France Saison 11
 **Urban track 16 virages**
 ![alt text](https://roboracingleague.github.io/images/urban-track-16-virages.png "Urban track 16 virages")
 
+
+**Speed track**
+![alt text](https://roboracingleague.github.io/images/speed-track.png "Speed track")
+
 * La piste est délimitée par du ruban de masquage beige d'un largeur de 5cm.  
 La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.   
 Le rayon de courbure au milieu de la piste dans les virage est de 1m.  
