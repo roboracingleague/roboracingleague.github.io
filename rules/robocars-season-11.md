@@ -118,7 +118,11 @@ le fond sera une fiche bristol couleur jaune pâle
 **Panneau virage à 1m qui tourne à 90 degrés à droite**
 ![alt text](https://roboracingleague.github.io/images/Panneau-virage-1m-90deg-R.png "Panneau virage 1m 90deg R")
 
+<p align="center">
+  <img src="https://roboracingleague.github.io/images/Panneau-virage-1m-90deg-R.png" alt="Panneau virage 1m 90deg R" height="600">
+</p>
 
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ## Résultats des courses, points de championnat et classement
 
