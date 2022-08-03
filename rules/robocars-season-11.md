@@ -75,6 +75,7 @@ Règlement DIY Robocars France Saison 11
 
   - Le départ pour chaque essai sera donné par l'organisation
 
+* Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
 
 ## Piste
 
@@ -89,7 +90,9 @@ Règlement DIY Robocars France Saison 11
 * La piste est délimitée par du ruban de masquage beige d'un largeur de 5cm.  
 La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.   
 Le rayon de courbure au milieu de la piste dans les virage est de 1m.  
-Il n'y a pas de murets délimitant la piste (les LIDARs ne peuvent pas être utilisés pour détecter la piste)
+Il n'y a pas de murets délimitant la piste.  
+Les LIDARs ne peuvent donc pas être utilisés pour détecter la piste.  
+Les LIDARs peuvent cependant faciliter la détections des autres robocars
 
 * Court-circuiter un virage en passant à l'intérieur d'un cône ou en touchant se dernier annule l'essai ou la manche en cours pour le fautif
 
@@ -99,6 +102,21 @@ Il n'y a pas de murets délimitant la piste (les LIDARs ne peuvent pas être uti
 
 * Un système de panneaux à chaque sortie de virage en bordure de circuit indiquera la distance au prochain virage et le type de virage si cette distance supérieure à 1m.  
 Un panneau à 1m de l'entrée du virage sera également disposé pour le freinage. 
+
+Si nous prenons comme exemple la grande ligne droite de la urban track dans le sens horaire, il y aura 2 panneaux.  
+Le premier à la sortie du virage au début de la ligne droite et un second au bout de la ligne droite avant le virage.  
+Les informations sur le panneau se répartiront en 3 lignes
+  - première ligne est la distance au virage en mètres
+  - deuxième ligne est l'angle du virage en degrés
+  - troisième ligne indique le sens du virage L pour gauche et R pour droite  
+la police utilisée est de l'Arial 170 couleur noire  
+le fond sera une fiche bristol couleur jaune pâle
+
+**Panneau virage à 17m qui tourne à 90 degrés à droite**
+![alt text](https://roboracingleague.github.io/images/Panneau-virage-17m-90deg-R.png "Panneau virage 17m 90deg R")
+
+**Panneau virage à 1m qui tourne à 90 degrés à droite**
+![alt text](https://roboracingleague.github.io/images/Panneau-virage-1m-90deg-R.png "Panneau virage 1m 90deg R")
 
 
 
