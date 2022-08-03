@@ -83,6 +83,7 @@ Règlement DIY Robocars France Saison 11
 * La piste est délimitée par du ruban de masquage beige d'un largeur de 5cm.  
 La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.   
 Le rayon de courbure au milieu de la piste dans les virage est de 1m.  
+Il n'y a pas de murets délimitant la piste (les LIDARs ne peuvent pas être utilisés pour détecter la piste)
 
 * Court-circuiter un virage en passant à l'intérieur d'un cône ou en touchant se dernier annule l'essai ou la manche en cours pour le fautif
 
