@@ -81,11 +81,17 @@ Règlement DIY Robocars France Saison 11
 
 * Il y aura 2 pistes, la urban track et la speed track. Les tracés seront communiqués sous peu.  
 **Urban track 16 virages**
-![alt text](https://roboracingleague.github.io/images/urban-track-16-virages.png "Urban track 16 virages")
+![alt text](https://roboracingleague.github.io/images/urban-track-16-virages.png "Urban track 16 virages")  
+
+**Urban track 16 virages dimensions**
+![alt text](https://roboracingleague.github.io/images/urban-track-16-virages-dimensions.png "Urban track 16 virages dimensions")
 
 
 **Speed track**
-![alt text](https://roboracingleague.github.io/images/speed-track.png "Speed track")
+![alt text](https://roboracingleague.github.io/images/speed-track.png "Speed track")  
+
+**Speed track dimensions**
+![alt text](https://roboracingleague.github.io/images/speed-track-dimensions.png "Speed track dimensions")  
 
 * La piste est délimitée par du ruban de masquage beige d'un largeur de 5cm.  
 La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.   
