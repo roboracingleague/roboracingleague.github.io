@@ -1,6 +1,9 @@
 Règlement DIY Robocars France Saison 11
 =======================================
 
+**Aller plus loin**
+![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
+
 ## Objectifs de la Saison 11
 * Exploiter l'accélération et le freinage des voitures pour améliorer les temps
 * Implémenter l'évitement de voitures obstacles statiques sur la piste
@@ -34,7 +37,7 @@ Règlement DIY Robocars France Saison 11
   
   - Le départ pour chaque essai sera donné par l'organisation
   
-  - Il y aura 4 voitures obstacles statiques positionnées dans les lignes droites soit à gauche soit à droite de la piste pour permettre l'évitement.  
+  - Il y aura 4 voitures obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus.  
   Toucher l'arrière d'une voiture obstacle statique invalide le chronométrage en cours et l'essai est perdu
 
   - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
@@ -59,7 +62,7 @@ Règlement DIY Robocars France Saison 11
   - La première voiture à compléter 2 tours remportera la manche.  
   Si une voiture rattrape l'autre en s'approchant à moins de 30cm de son pare-choc arrière elle remporte la manche
 
-  - Il y aura 4 voitures obstacles statiques positionnées dans les lignes droites soit à gauche soit à droite de la piste pour permettre l'évitement.   
+  - Il y aura 4 voitures obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus   
   Toucher l'arrière d'une voiture obstacle statique est éliminatoire pour la manche
 
 * **Pure Speed** CW+CCW – without obstacles  (CW = ClockWise / CCW = Counter ClockWise)
@@ -127,6 +130,15 @@ le fond sera une fiche bristol couleur jaune pâle
 <p align="center">
   <img src="https://roboracingleague.github.io/images/Panneau-virage-1m-90deg-R.png" alt="Panneau virage 1m 90deg R" height="500">
 </p>
+
+## Voitures obstacles statiques
+
+* Un dé à 24 faces sera utilisé avant chaque course utilisant les voitures obstacles statiques pour déterminer les 4 emplacements retenus  
+
+** Emplacements possibles pour les voitures obstacles statiques**
+
+![alt text](https://roboracingleague.github.io/images/urban-track-24-obstacle-positions.png "Emplacements possibles pour les voitures obstacles statiques")  
+
 
 ## Résultats des courses, points de championnat et classement
 
