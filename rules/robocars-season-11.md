@@ -1,7 +1,7 @@
 Règlement DIY Robocars France Saison 11
 =======================================
 
-## Aller plus loin
+## Après le succès de la clotûre de la saison 10 à Vivatech 2022
 ![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
 ## Objectifs de la Saison 11
