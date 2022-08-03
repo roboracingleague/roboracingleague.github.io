@@ -135,7 +135,7 @@ le fond sera une fiche bristol couleur jaune pâle
 
 * Un dé à 24 faces sera utilisé avant chaque course utilisant les voitures obstacles statiques pour déterminer les 4 emplacements retenus  
 
-** Emplacements possibles pour les voitures obstacles statiques**
+**Emplacements possibles pour les voitures obstacles statiques**
 
 ![alt text](https://roboracingleague.github.io/images/urban-track-24-obstacle-positions.png "Emplacements possibles pour les voitures obstacles statiques")  
 
