@@ -146,7 +146,7 @@ le fond sera une fiche bristol couleur jaune pâle
 25 - 18 - 15 - 12 - 10 - 8 - 6 - 4 - 2 - 1
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
-* Les points de championnat seront accummulés sur l'ensemble des course, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
+* Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
 * Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
 12 points de présence seront donc attribués lors de chaque course aux participants
 * La présence d'une carrosserie sera également récompensée.  

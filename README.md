@@ -1,41 +1,23 @@
-# Robo Racing League Guide
-## Season 9
+DIY Robocars France - Saison 11
+===
 
-### 3 Prizes
-- Jetson Nano 4Go
-- Intel D435 depth camera or similar
-- Google Coral USB Stick
+## Grand succès pour la clotûre de la saison 10 à Vivatech 2022
+![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
-Prizes chosen in the order of the season's final standings
+## Objectifs de la Saison 11
+* Exploiter l'accélération et le freinage des voitures pour améliorer les temps
+* Implémenter l'évitement de voitures obstacles statiques sur la piste
 
-### 3 Races
-1. 23 octobre @ EPITA (9h-13h30)
-2. 20 novembre @ RD (9h-13h30)
-3. 11 décembre @ RD (9h-13h30)
+## Calendrier des 6 journées de courses
+1. 10 septembre 2022 au Cristallin (lieu peut changer)
+2.  8 octobre   2022 au Cristallin (lieu peut changer)
+3.  5 novembre  2022 au Cristallin (lieu peut changer)
+4.  3 décembre  2022 au Cristallin (lieu peut changer)
+5.  7 janvier   2022 au Cristallin (lieu peut changer)
+6. 28 janvier   2022 au Cristallin (lieu peut changer)
 
-### Teams by registration number
-1. (N,?,?) @Alexis B
-2. (O,?,?) @Benoit T (Trooper)
-3. (N,?,?) @Corentin
-4. (N,?,?) @Seb (Trooper)
-5. (O,?,?) @reda / @Yacine (Alpine GT4 Interceptor)
-6. (O,?,?) @Maxime E 
-7. (O,?,?) @Étienne L
-8. (O,?,?) @Yassir K
-9. (O,?,?) @Olivier B (Challenger SRT Interceptor)
-10. (O,?,?) @Michaelp
-11. (N,?,?) @Hongjie Z (Trooper)
-12. (O,?,?) @Alfredo R (Alpine GT4)
-13. (O,?,?) Epita-1 (Alpine GT4 Interceptor)
-14. (O,?,?) Epita-2 (Alpine GT4 Interceptor)
-15. (N,?,?) Epita-3 (Alpine GT4 Interceptor)
-16. (N,?,?) Epita-4 (Alpine GT4 Interceptor)
-17. (O,?,?) @Romain M (Trooper)
-18. (O,?,?) @Jérôme Z (Trooper)
-19. (N,?,?) @Jean-Marc H / @Romain S (Trooper) / @Nicolas G?
-20. (N,?,?) @Elvio B (Fox) / @Nicolas B / @Mustapha
-21. (O,?,?) @Armand PL
-22. (O,?,?) @Cyrille N (Trooper)
+## Participation
+* Les courses sont ouvertes à tous, étudiants, professionnels, experts, débutants, ...
 
-### Rules
-[Robocars season 9 rules](rules/robocars.md)
+### Règlement saison 11 
+[Règlement DIY Robocars France - saison 11](rules/robocars-season-11.md)
