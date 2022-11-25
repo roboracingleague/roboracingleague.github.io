@@ -12,7 +12,7 @@ Règlement DIY Robocars France Saison 11
 * 10 septembre 2022 au Cristallin (lieu peut changer)
 *  8 octobre   2022 au Cristallin (lieu peut changer)
 *  5 novembre  2022 au Cristallin (lieu peut changer)
-*  3 décembre  2022 au Cristallin (lieu peut changer)
+* 10 décembre  2022 au Cristallin (lieu peut changer)
 *  7 janvier   2022 au Cristallin (lieu peut changer)
 * 28 janvier   2022 au Cristallin (lieu peut changer)
 * 18 février   2022 au Cristallin (lieu peut changer)
@@ -152,12 +152,32 @@ le fond sera une fiche bristol couleur jaune pâle
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
+* Le urban sprint est qualificatif pour la battle. Si le challenge n'est pas relevé, la participation à la battle ne sera pas possible.
+* La participation au urban sprint et à la speed race sont cependant ouvertes à l'ensemble des participants qui le souhaitent
 * Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
-12 points de présence seront donc attribués lors de chaque course aux participants
+12 points de présence seront donc attribués lors de chaque course aux participants et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
 * La présence d'une carrosserie sera également récompensée.  
-12 points de championnat par course effectuée avec une carrosserie
-* Les 6 journée de course devraient permettre d'organiser 18 courses, les 15 meilleures courses de chaque voiture seront comptabilisés
+12 points de championnat par course effectuée avec une carrosserie et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
+* Les 10 journées de course devraient permettre d'organiser 30 courses, les 18 meilleures courses de chaque voiture seront comptabilisés
+* En cas d'égalité, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
+
+## Prix associés aux résultats des robocars
+
+* Une dotation maximum de 5000€ sera distribuée aux 7 premiers du classement par points de la saison basé sur les 18 meilleurs résultats de suivant le barême suivant:
+ 40%, 25%, 15%, 8%, 6%, 4%, 2%
+* La portion débloquée de la dotation de 5000€ sera fonction du nb de challenges qui seront relevés par les robocars tout au long des 10 journées de courses de la saison.
+A partir de 60 challenges relevés, et jusqu'à 100 challenges relevés, la formule de la dotation sera
+nb challenges réussis = % débloqué du Prix Global
+ex:
+60 challenges relevés = 60% x 5000€ = 3000€
+80 challenges relevés = 80% x 5000€ = 4000€
+100 challenges relevés = 100% x 5000€ = 5000€ 
+* La portion débloquée de la dotation sera communiquée à l'issue de chaque journée de courses
+* Il y aura 2 challenges servant à activer la dotation par journée de courses: 
+- le urban sprint
+- la speed race
+* La battle est considérée comme une course bonus permettant d'engranger des points au championnat pour ceux qui réussissent le urban sprint
 
 ## Journée de course type
 Arrivée racers 9h - 9h30 au plus tard

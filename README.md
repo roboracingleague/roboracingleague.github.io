@@ -12,7 +12,7 @@ DIY Robocars France - Saison 11
 1. 10 septembre 2022 au Cristallin (lieu peut changer)
 2.  8 octobre   2022 au Cristallin (lieu peut changer)
 3.  5 novembre  2022 au Cristallin (lieu peut changer)
-4.  3 décembre  2022 au Cristallin (lieu peut changer)
+4. 10 décembre  2022 au Cristallin (lieu peut changer)
 5.  7 janvier   2022 au Cristallin (lieu peut changer)
 6. 28 janvier   2022 au Cristallin (lieu peut changer)
 7. 18 février   2022 au Cristallin (lieu peut changer)
