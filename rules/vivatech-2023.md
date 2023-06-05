@@ -22,7 +22,7 @@ Un tirage au sort effectué en présence des équipes ayant participé au meetup
 * Equipe 11 : Cyrille R
 
 ## Déroulement
-Sur le modèle des meetups mensuels, le Grand Prix se constitué cette année de :
+Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de :
 1. Une course sprint (ordre de passage déterminé par tirage au sort)
 1. Une battle CW (tableau de tournoi déterminé par le classement général)
 1. Une course sprint (ordre de passage déterminé par le classement général)
@@ -87,8 +87,8 @@ Sur le modèle des meetups mensuels, le Grand Prix se constitué cette année de
 
   - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
 
+  **Est-ce utile pour un grand prix d'un jour, rique d'empêcher de départager les équipes. Proposition accorder les points par position à chaque course**
   - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (2 tours complets dans chaque sens)
-
 
 * **Battle** CW or CCW (CW = ClockWise / CCW = Counter ClockWise)
 
@@ -115,6 +115,7 @@ Sur le modèle des meetups mensuels, le Grand Prix se constitué cette année de
 * Les point de championnat sont attribués à l'issue de chaque course du 1er au 10e suivant la répartition suivante:
 25 - 18 - 15 - 12 - 10 - 8 - 6 - 4 - 2 - 1
 
+**Est-ce utile pour un grand prix d'un jour, rique d'empêcher de départager les équipes. Proposition accorder les points par position à chaque course**
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée
 
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du Grand Prix
