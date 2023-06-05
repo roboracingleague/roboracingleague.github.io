@@ -10,14 +10,14 @@ Ce Grand Prix aura lieu le 17 juin 2023 dans le Hall 2 du salon Vivatech et verr
 ## Equipes
 Un tirage au sort effectué en présence des équipes ayant participé au meetup du 3 juin a déterminé le numéro des équipes pour vivatech. Cet ordre définira la position au départ de la course, mais également les créneaux horaires d'entrainement et de reconnaissance de la piste (planning détaillé à venir) :
 * Equipe 1 : Smart flocks
-* Equipe 2 : Subaru 2
-* Equipe 3 : Skryre
-* Equipe 4 : ENS 1
+* Equipe 2 : 🎓 Subaru 2
+* Equipe 3 : 🎓 Skryre
+* Equipe 4 : 🎓 ENS 1
 * Equipe 5 : Fous du volant
-* Equipe 6 : ENS 2
-* Equipe 7 : SIGMA / Formule 1MT
+* Equipe 6 : 🎓 ENS 2
+* Equipe 7 : 🎓 SIGMA / Formule 1MT
 * Equipe 8 : Iroadtripper
-* Equipe 9 : Benoit
+* Equipe 9 : Skid Game
 * Equipe 10 : The Flash
 * Equipe 11 : Cyrille R
 
