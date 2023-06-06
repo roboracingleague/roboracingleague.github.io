@@ -85,10 +85,7 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 
   - Le départ pour chaque essai sera donné par l'organisation
 
-  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
-
-  **Est-ce utile pour un grand prix d'un jour, rique d'empêcher de départager les équipes. Proposition accorder les points par position à chaque course**
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (2 tours complets dans chaque sens)
+  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour établir un temps de course à l'aide de la forume suivante : 600s - 5s * nb virages réussis
 
 * **Battle** CW or CCW (CW = ClockWise / CCW = Counter ClockWise)
 
@@ -115,17 +112,13 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 * Les point de championnat sont attribués à l'issue de chaque course du 1er au 10e suivant la répartition suivante:
 25 - 18 - 15 - 12 - 10 - 8 - 6 - 4 - 2 - 1
 
-**Est-ce utile pour un grand prix d'un jour, rique d'empêcher de départager les équipes. Proposition accorder les points par position à chaque course**
-* Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée
-
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du Grand Prix
 
-* La présence d'une carrosserie sera récompensée.
-12 points seront attribués par course effectuée avec une carrosserie et qui franchiront à minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête.
+* La présence d'une carrosserie sera récompensée. En fin de journée, 36 points seront attribués aux équipes qui auront effectués tous leurs départs de sprint et de battle avec une carrosserie.
 
 * En cas d'égalité, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
 
 ## Prix
 
 * Une dotation maximum de 1000€ sera distribuée aux 3 premiers du classement par points:
- 60%, 30%, 10%
+ 600€, 300€, 100€
