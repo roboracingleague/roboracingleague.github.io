@@ -122,3 +122,5 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 
 * Une dotation maximum de 1000€ sera distribuée aux 3 premiers du classement par points:
  600€, 300€, 100€
+
+* Les équipes Renault seront classées dans le tableau final mais ne peuvent pas prétendre aux dotations.
