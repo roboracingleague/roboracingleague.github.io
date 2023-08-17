@@ -1,25 +1,21 @@
-Règlement DIY Robocars France Saison 11
+Règlement DIY Robocars France Saison 12
 =======================================
 
-## Après le succès de la clotûre de la saison 10 à Vivatech 2022
+## Après le succès de la clotûre des saisons 10 & 11 à Vivatech 2022-2023
 ![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
-## Objectifs de la Saison 11
-* Exploiter l'accélération et le freinage des voitures pour améliorer les temps
-* Implémenter l'évitement de voitures obstacles statiques sur la piste
+## Objectifs de la Saison 12
+* Pouvoir utiliser l'IA des robocars en mode autonome et en mode copilote
+* Robocars qui gèrent les évitements et les dépassements
+* Proposer des courses plus longues pour valider la robustesse des IA des Robocars
 
-## Calendrier des 11 journées de courses
-* 10 septembre 2022 au Cristallin (lieu peut changer)
-*  8 octobre   2022 au Cristallin (lieu peut changer)
-*  5 novembre  2022 au Cristallin (lieu peut changer)
-* 10 décembre  2022 au Cristallin (lieu peut changer)
-*  7 janvier   2023 au Cristallin (lieu peut changer)
-* 28 janvier   2023 au Cristallin (lieu peut changer)
-* 18 février   2023 au Cristallin (lieu peut changer)
-* 11 mars      2023 au Cristallin (lieu peut changer)
-*  8 avril     2023 au Cristallin (lieu peut changer)
-*  6 mai       2023 au Cristallin (lieu peut changer)
-*  3 juin      2023 au Cristallin (lieu peut changer)
+## Calendrier des 4 journées de courses et 2 fun days
+* 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
+* 18 novembre  2023 Course au Cristallin (lieu peut changer)
+* 20 janvier   2024 Course au Cristallin (lieu peut changer)
+*  3 février   2023 Fun day au Cristallin (lieu peut changer)
+* 16 mars      2023 Course au Cristallin (lieu peut changer)
+* 25 mai       2023 Course au Cristallin (lieu peut changer)
 
 ## Robocar
 * Echelle entre 1/18 et 1/10 (1/10 recommandé)
@@ -29,120 +25,116 @@ Règlement DIY Robocars France Saison 11
 * Les IMUs sont recommandés
 * Un émetteur spécifique pour le système de chronométrage sera peut-être obligatoire
 * Les LIDARs sont autorisés mais non recommandés (Meetup basé sur la vision) et placent automatiquement la voiture dans une catégorie spécifique LIDAR
-* Les carrosseries ne sont pas obligatoires mais permettent d'obtenir des point de championnat bonus
+* Les carrosseries SONT obligatoires cette saison pour être elligible aux points de championnat
+
+## Essais libres
+* La phase d'essais libres sera divisée en sessions de 15' avec au maximum 3 voitures simultanément sur la piste.
+* l'ordre de passage lors des essais libres sera établi lors des inscriptions aux courses
+* Chaque session sera divisée en 2 périodes de 7,5' permettant l'entrainement dans les 2 sens CW et CCW.
+* Durant la phase d'entrainement, la piste sera en configuration Sprint (Sans obstacles)
 
 ## Courses
-* **Urban Sprint** CW+CCW – with obstacles (CW = ClockWise / CCW = Counter ClockWise)
+* **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
 
-  - Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire sur 2 tours.  
-  Puis à nouveau  2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire sur 2 tours
+  - Chaque voiture a 1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 5 tours.  
+  Puis à nouveau  1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 5 tours
+  Si l'essai est raté avant le 4e virage, il est possible de recommencer. 1 fois pour chaque sens
 
-  - Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens.  
+  - Le temps comptabilisé sera la somme des temps dans chaque sens.  
   Le chronométrage sera manuel ou automatique suivant le matériel disponible
   
   - Le départ pour chaque essai sera donné par l'organisation
   
-  - Il y aura 4 voitures obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus.  
-  Toucher l'arrière d'une voiture obstacle statique invalide le chronométrage en cours et l'essai est perdu
+  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
+
+  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
+
+* **Slalom** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
+
+  - Chaque voiture a 1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 5 tours.  
+  Puis à nouveau  1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 5 tours
+  Si l'essai est raté avant le 4e virage, il est possible de recommencer. 1 fois pour chaque sens
+
+  - Le temps comptabilisé sera la somme des temps dans chaque sens.  
+  Le chronométrage sera manuel ou automatique suivant le matériel disponible
+  
+  - Le départ pour chaque essai sera donné par l'organisation
+  
+  - Il y aura 10 cônes obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus.  
+  Toucher un cône obstacle invalide le chronométrage en cours et l'essai est perdu
 
   - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
 
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (2 tours complets dans chaque sens sans toucher de voiture obstacle)
+  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
+* **Carnage** CW or CCW (CW = ClockWise / CCW = Counter ClockWise)
 
-* **Urban Battle** CW or CCW – with obstacles (CW = ClockWise / CCW = Counter ClockWise)
+  - Il y aura une course carnage CW et une carnage CCW, elles seront indépendantes
 
-  - Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement du ***Urban Sprint***.  
-  Le premier du classement du Urban Sprint affrontera le dernier.  
+  - Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement du ***Slalom***.  
+  Le premier du classement du Slalom affrontera le dernier.  
   Le 2e affrontera l'avant-dernier.  
-  Le premier du classement du Urban Sprint affrontera le dernier.   
+  Le premier du classement du Slalom affrontera le dernier.   
   etc.
 
   - Chaque affrontement sera remporté par celui des 2 adversaires qui remporte 2 des 3 manches
-  
-  - Chaque manche verra les 2 opposants se positionner aux opposés de la piste pour le départ (La position sera alternée à chaque manche)
+
+  - Chaque manche verra les 2 opposants se positionner sur la grille de départ type Formule 1 en fonction de son classement lors du **Slalom**
   
   - Le départ sera donné par l'organisation
 
-  - La première voiture à compléter 2 tours remportera la manche.  
-  Si une voiture rattrape l'autre en s'approchant à moins de 30cm de son pare-choc arrière elle remporte la manche
+  - La première voiture à compléter 5 tours remportera la manche.  
 
-  - Il y aura 4 voitures obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus   
-  Toucher l'arrière d'une voiture obstacle statique est éliminatoire pour la manche
+  - Toucher l'arrière d'une voiture obstacle statique est éliminatoire pour la manche
 
-* **Pure Speed** CW+CCW – without obstacles  (CW = ClockWise / CCW = Counter ClockWise)
+  - En cas d'une incapacité d'une voiture à compléter les 5 tours, le nombre de virages franchis sera retenu pour le classement et non le temps
 
-  - La piste sera modifiée pour maximiser la vitesse en ligne droite et un assortiment de quelques virages lents et rapides
-
-  - Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire sur 2 tours  
-  Puis à nouveau  2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire sur 2 tours
-
-  - Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens
-
-  - Le chronométrage sera manuel ou automatique suivant le matériel disponible
-
-  - Le départ pour chaque essai sera donné par l'organisation
+  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
 * Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
 
+## Modes de course
+
+* **Mode autonome**
+- C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
+
+* **Mode copilote**
+- Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
+Ce mode hybride ressemble à une version évoluée des slot cars ;-)
+
+
 ## Piste
 
-* Il y aura 2 pistes, la urban track et la speed track. Les tracés seront communiqués sous peu.  
-**Urban track 16 virages**
-![alt text](https://roboracingleague.github.io/images/urban-track-16-virages.png "Urban track 16 virages")  
+**S12 track**
+![alt text](https://roboracingleague.github.io/images/robocars-track-s12.png "S12 track")
 
-**Urban track 16 virages dimensions**
-![alt text](https://roboracingleague.github.io/images/urban-track-16-virages-dimensions.png "Urban track 16 virages dimensions")
+**S12 track dimensions**
+![alt text](https://roboracingleague.github.io/images/robocars-track-s12-dims.png "S12 track dimensions")  
 
+* La piste sera installée sur une moquette de couleur noire et grise. Ou sur un sol uni.
 
-**Speed track**
-![alt text](https://roboracingleague.github.io/images/speed-track.png "Speed track")  
+* La piste est délimitée par du ruban de masquage beige d'une largeur de 5cm.
 
-**Speed track dimensions**
-![alt text](https://roboracingleague.github.io/images/speed-track-dimensions.png "Speed track dimensions")  
+* La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.
 
-* La piste est délimitée par du ruban de masquage beige d'un largeur de 5cm.  
-La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.   
-Le rayon de courbure au milieu de la piste dans les virage est de 1m.  
+* Le rayon des virages, mesure depuis le centre de la piste, est de 1m. L'intérieur d'un virage a donc un rayon de 50cm et l'extérieur de 1m50.
 Il n'y a pas de murets délimitant la piste.  
 Les LIDARs ne peuvent donc pas être utilisés pour détecter la piste.  
 Les LIDARs peuvent cependant faciliter la détections des autres robocars
 
-* Court-circuiter un virage en passant à l'intérieur d'un cône ou en touchant se dernier annule l'essai ou la manche en cours pour le fautif
+* Des vibreurs installés à l'intérieur des virages, sans empiéter sur le scotch, permettront de mieux visualiser les virages
+* Court-circuiter un virage en passant à l'intérieur d'un vibreur (0 roue en contact avec la piste) annule l'essai ou la manche en cours pour le fautif
 
-* L'intérieur des virages comportera des ralentisseurs depuis la ligne de délimitation intérieure jusqu'au cône
+* Les lignes de départ/arrivée seront matérialisées au sol par un scotch de 1cm de large de couleur gris neutre. Optionnel
 
-* Un système de chronométrage sera installé et deviendra obligatoire(avec période de probation) dès que validé
+* Une arche de chronométrage sera présente sur la ligne de départ/arrivée. Les pieds de support des arches seront placés à l'extérieur de la piste à 10cm de son bord. Optionnel
 
-* Un système de panneaux à chaque sortie de virage en bordure de circuit indiquera la distance au prochain virage et le type de virage si cette distance supérieure à 1m.  
-Un panneau à 1m de l'entrée du virage sera également disposé pour le freinage. 
 
-Si nous prenons comme exemple la grande ligne droite de la urban track dans le sens horaire, il y aura 2 panneaux.  
-Le premier à la sortie du virage au début de la ligne droite et un second au bout de la ligne droite avant le virage.  
-Les informations sur le panneau se répartiront en 3 lignes
-  - première ligne est la distance au virage en mètres
-  - deuxième ligne est l'angle du virage en degrés
-  - troisième ligne indique le sens du virage L pour gauche et R pour droite  
-la police utilisée est de l'Arial 170 couleur noire  
-le fond sera une fiche bristol couleur jaune pâle
+**Emplacements possibles pour les cônes obstacles**
+![alt text](https://roboracingleague.github.io/images/robocars-track-s12-cones.png "S12 track cones")
 
-**Panneau virage à 17m qui tourne à 90 degrés à droite**
-<p align="center">
-  <img src="https://roboracingleague.github.io/images/Panneau-virage-17m-90deg-R.png" alt="Panneau virage 17m 90deg R" height="500">
-</p>
-
-**Panneau virage à 1m qui tourne à 90 degrés à droite**
-<p align="center">
-  <img src="https://roboracingleague.github.io/images/Panneau-virage-1m-90deg-R.png" alt="Panneau virage 1m 90deg R" height="500">
-</p>
-
-## Voitures obstacles statiques
-
-* Un dé à 24 faces sera utilisé avant chaque course utilisant les voitures obstacles statiques pour déterminer les 4 emplacements retenus  
-
-**Emplacements possibles pour les voitures obstacles statiques**
-
-![alt text](https://roboracingleague.github.io/images/urban-track-24-obstacle-positions.png "Emplacements possibles pour les voitures obstacles statiques")  
+* Les cônes ont une base carrée de 20cm
+Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du début du virage
 
 
 ## Résultats des courses, points de championnat et classement
@@ -152,44 +144,33 @@ le fond sera une fiche bristol couleur jaune pâle
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
-* Le urban sprint est qualificatif pour la battle. Si le challenge n'est pas relevé, la participation à la battle ne sera pas possible.
-* La participation au urban sprint et à la speed race sont cependant ouvertes à l'ensemble des participants qui le souhaitent
+* Le Sprint est qualificatif pour le Slalom. Si le challenge n'est pas relevé, la participation au Slalom ne sera pas possible
+* Le Sprint est qualificatif pour le Carnage. Si le challenge n'est pas relevé, la participation au Carnage ne sera pas possible
 * Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
 12 points de présence seront donc attribués lors de chaque course aux participants et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
-* La présence d'une carrosserie sera également récompensée.  
-12 points de championnat par course effectuée avec une carrosserie et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
-* Les 10 journées de course devraient permettre d'organiser 30 courses, les 18 meilleures courses de chaque voiture seront comptabilisés
-* En cas d'égalité, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
+* La présence d'une carrosserie est obligatoire pour être classé
+* En cas d'égalité de points, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
 
-## Prix associés aux résultats des robocars
+## Prix
 
-* Une dotation maximum de 5000€ sera distribuée aux 7 premiers du classement par points de la saison basé sur les 18 meilleurs résultats de suivant le barême suivant:
- 40%, 25%, 15%, 8%, 6%, 4%, 2%
-* La portion débloquée de la dotation de 5000€ sera fonction du nb de challenges qui seront relevés par les robocars tout au long des 10 journées de courses de la saison.
-A partir de 60 challenges relevés, et jusqu'à 100 challenges relevés, la formule de la dotation sera
-nb challenges réussis = % débloqué du Prix Global
-ex:
-60 challenges relevés = 60% x 5000€ = 3000€
-80 challenges relevés = 80% x 5000€ = 4000€
-100 challenges relevés = 100% x 5000€ = 5000€ 
-* La portion débloquée de la dotation sera communiquée à l'issue de chaque journée de courses
-* Il y aura 2 challenges servant à activer la dotation par journée de courses: 
-- le urban sprint
-- la speed race
-* La battle est considérée comme une course bonus permettant d'engranger des points au championnat pour ceux qui réussissent le urban sprint
+* Dotation à déterminer 
 
 ## Journée de course type
 Arrivée racers 9h - 9h30 au plus tard
 * Courses
   - Installation piste 9h-10h 
-  - 10h00 - 11h30 essais libres
-  - 11h30 - 12h30 Sprint CW+CCW (w obstacles)
-  - 12h30 - 13h30 Battle CW or CCW alternate (w obstacles)
-  - 13H30 - 13h45 Preparation SPEED TRACK
-  - 13h45 - 14h45 Speed CW+CCW (wo obstacles)
-  - 14h45 - 15h00 Debrief
-
-* Essais libres
-  - 15h00 - 16h45 Piste libre
+  - 10h00 - 11h15 essais libres
+  EPREUVES EN MODE AUTONOME
+  - 11h15 - 11h45 Sprint CW+CCW 5T (sans obstacles)
+  - 11h50 - 12h20 Slalom CW+CCW 5T (avec obstacles cônes)
+  - 12h25 - 12h55 Carnage CW 5T (sans obstacles)
+  - 13h00 - 13h30 Carnage CCW 5T (sans obstacles)
+  EPREUVES EN MODE COPILOTE
+  - 14h00 - 14h30 Sprint CW+CCW 5T (sans obstacles)
+  - 14h35 - 15h05 Slalom CW+CCW 5T (avec obstacles cônes)
+  - 15h10 - 15h40 Carnage CW 5T (sans obstacles)
+  - 15h45 - 16h15 Carnage CCW 5T (sans obstacles)
+  ESSAIS LIBRES 2
+  - 16h20 - 16h45 Piste libre
   - 16h45 - 17h00 Rangement et Fermeture
