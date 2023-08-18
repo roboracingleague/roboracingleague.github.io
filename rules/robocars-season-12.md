@@ -79,27 +79,12 @@ Règlement DIY Robocars France Saison 12
 
 * Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
 
-* **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
-  FORMAT NON UTILISE CETTE SAISON
-  - Chaque voiture a 1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 5 tours.  
-  Puis à nouveau  1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 5 tours
-  Si l'essai est raté avant le 4e virage, il est possible de recommencer. 1 fois pour chaque sens
-
-  - Le temps comptabilisé sera la somme des temps dans chaque sens.  
-  Le chronométrage sera manuel ou automatique suivant le matériel disponible
-  
-  - Le départ pour chaque essai sera donné par l'organisation
-  
-  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
-
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
-
 ## Modes de course
 
-* **Mode autonome**
+### **Mode autonome**
 - C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
 
-* **Mode copilote**
+### **Mode copilote**
 - Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
 Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 
