@@ -46,7 +46,7 @@ Règlement DIY Robocars France Saison 12
   
   - Le départ pour chaque essai sera donné par l'organisation
   
-  - Il y aura 10 cônes obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus.  
+  - Il y aura 14 cônes obstacles statiques positionnées positionnées au hasard avant le départ de la course sur l'un des emplacements prévus.  
   Toucher un cône obstacle invalide le chronométrage en cours et l'essai est perdu
 
   - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
