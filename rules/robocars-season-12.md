@@ -34,20 +34,6 @@ Règlement DIY Robocars France Saison 12
 * Durant la phase d'entrainement, la piste sera en configuration Sprint (Sans obstacles)
 
 ## Courses
-* **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
-
-  - Chaque voiture a 1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 5 tours.  
-  Puis à nouveau  1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 5 tours
-  Si l'essai est raté avant le 4e virage, il est possible de recommencer. 1 fois pour chaque sens
-
-  - Le temps comptabilisé sera la somme des temps dans chaque sens.  
-  Le chronométrage sera manuel ou automatique suivant le matériel disponible
-  
-  - Le départ pour chaque essai sera donné par l'organisation
-  
-  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
-
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
 * **Slalom** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
 
@@ -67,7 +53,7 @@ Règlement DIY Robocars France Saison 12
 
   - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
-* **Carnage** CW or CCW (CW = ClockWise / CCW = Counter ClockWise)
+* **Carnage** CW ou CCW (CW = ClockWise / CCW = Counter ClockWise)
 
   - Il y aura une course carnage CW et une carnage CCW, elles seront indépendantes
 
@@ -92,6 +78,21 @@ Règlement DIY Robocars France Saison 12
   - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
 * Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
+
+* **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
+  FORMAT NON UTILISE CETTE SAISON
+  - Chaque voiture a 1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 5 tours.  
+  Puis à nouveau  1 essai pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 5 tours
+  Si l'essai est raté avant le 4e virage, il est possible de recommencer. 1 fois pour chaque sens
+
+  - Le temps comptabilisé sera la somme des temps dans chaque sens.  
+  Le chronométrage sera manuel ou automatique suivant le matériel disponible
+  
+  - Le départ pour chaque essai sera donné par l'organisation
+  
+  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
+
+  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
 
 ## Modes de course
 
@@ -144,8 +145,7 @@ Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du dé
 * Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
-* Le Sprint est qualificatif pour le Slalom. Si le challenge n'est pas relevé, la participation au Slalom ne sera pas possible
-* Le Sprint est qualificatif pour le Carnage. Si le challenge n'est pas relevé, la participation au Carnage ne sera pas possible
+* Le Slalom est qualificatif pour le Carnage. Si le challenge n'est pas relevé, la participation au Carnage ne sera pas possible
 * Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
 12 points de présence seront donc attribués lors de chaque course aux participants et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
 * La présence d'une carrosserie est obligatoire pour être classé
@@ -159,18 +159,13 @@ Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du dé
 ## Journée de course type
 Arrivée racers 9h - 9h30 au plus tard
 * Courses
-  - Installation piste 9h-10h 
-  - 10h00 - 11h15 essais libres
+  - Installation piste 9h-9h45
+  ESSAIS LIBRES 
+  - 9h45 - 11h00 essais libres
   EPREUVES EN MODE AUTONOME
-  - 11h15 - 11h45 Sprint CW+CCW 5T (sans obstacles)
-  - 11h50 - 12h20 Slalom CW+CCW 5T (avec obstacles cônes)
-  - 12h25 - 12h55 Carnage CW 5T (sans obstacles)
-  - 13h00 - 13h30 Carnage CCW 5T (sans obstacles)
+  - 11h00 - 11h30 Slalom CW+CCW 5T (avec obstacles cônes)
+  - 11h35 - 12h05 Carnage CW 5T (sans obstacles)
   EPREUVES EN MODE COPILOTE
-  - 14h00 - 14h30 Sprint CW+CCW 5T (sans obstacles)
-  - 14h35 - 15h05 Slalom CW+CCW 5T (avec obstacles cônes)
-  - 15h10 - 15h40 Carnage CW 5T (sans obstacles)
-  - 15h45 - 16h15 Carnage CCW 5T (sans obstacles)
-  ESSAIS LIBRES 2
-  - 16h20 - 16h45 Piste libre
-  - 16h45 - 17h00 Rangement et Fermeture
+  - 12h10 - 12h40 Slalom CW+CCW 5T (avec obstacles cônes)
+  - 12h45 - 13h15 Carnage CCW 5T (sans obstacles)
+  
