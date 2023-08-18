@@ -147,7 +147,7 @@ Arrivée racers 9h - 9h30 au plus tard
   - Installation piste 9h-9h45
 
   ESSAIS LIBRES 
-  - 9h45 - 11h00 essais libres
+  - 9h45 - 11h00 essais libres (sans obstacles)
   
   EPREUVES EN MODE AUTONOME
   - 11h00 - 11h30 Slalom CW+CCW 5T (avec obstacles cônes)
