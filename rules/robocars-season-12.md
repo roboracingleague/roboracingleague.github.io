@@ -5,9 +5,11 @@ Règlement DIY Robocars France Saison 12
 ![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
 ## Objectifs de la Saison 12
-* Pouvoir utiliser l'IA des robocars en mode autonome et en mode copilote
-* Robocars qui gèrent les évitements et les dépassements
-* Proposer des courses plus longues pour valider la robustesse des IA des Robocars
+* Utiliser 2 modes de courses: mode autonome (IA Steering + IA Throttle) et mode copilote (IA Steering + Humain Throttle)
+* Avoir de Robocars qui gèrent les évitements et les dépassements
+* Allonger les courses à 5T pour valider la robustesse des IA des Robocars
+* Partager les innovations dans le cadre de fun days
+* Organiser des courses dans plusieurs lieux
 
 ## Calendrier des 4 journées de courses et 2 fun days
 * 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
