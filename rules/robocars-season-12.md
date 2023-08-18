@@ -145,11 +145,14 @@ Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du dé
 Arrivée racers 9h - 9h30 au plus tard
 * Courses
   - Installation piste 9h-9h45
+
   ESSAIS LIBRES 
   - 9h45 - 11h00 essais libres
+  
   EPREUVES EN MODE AUTONOME
   - 11h00 - 11h30 Slalom CW+CCW 5T (avec obstacles cônes)
   - 11h35 - 12h05 Carnage CW 5T (sans obstacles)
+  
   EPREUVES EN MODE COPILOTE
   - 12h10 - 12h40 Slalom CW+CCW 5T (avec obstacles cônes)
   - 12h45 - 13h15 Carnage CCW 5T (sans obstacles)
