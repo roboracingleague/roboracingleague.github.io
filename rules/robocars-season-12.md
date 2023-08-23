@@ -152,10 +152,10 @@ Arrivée racers 9h - 9h30 au plus tard
   - 9h45 - 11h00 essais libres (sans cônes sur la piste)
   
   EPREUVES EN MODE AUTONOME
-  - 11h00 - 11h30 Slalom CW+CCW 5T (avec 14 cônes sur la piste)
-  - 11h35 - 12h05 Carnage CW 5T (sans cônes sur la piste)
+  - 11h00 - 11h30 Slalom CW+CCW 5T (Chrono avec 14 cônes sur la piste)
+  - 11h35 - 12h05 Carnage CW 5T (Face To Face sans cônes sur la piste)
   
   EPREUVES EN MODE COPILOTE
-  - 12h10 - 12h40 Slalom CW+CCW 5T (avec 14 cônes sur la piste)
-  - 12h45 - 13h15 Carnage CCW 5T (sans cônes sur la piste)
+  - 12h10 - 12h40 Slalom CW+CCW 5T (Chrono avec 14 cônes sur la piste)
+  - 12h45 - 13h15 Carnage CCW 5T (Face To Face sans cônes sur la piste)
   
