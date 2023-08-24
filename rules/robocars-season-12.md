@@ -16,6 +16,7 @@ Règlement DIY Robocars France Saison 12
 
 
 ## Calendrier des 6 journées de courses et 2 fun days
+
 ### Courses
 
 * 18 novembre  2023 Course au Cristallin (lieu peut changer)
@@ -24,6 +25,7 @@ Règlement DIY Robocars France Saison 12
 * 30 mars      2024 Course au Saclay (lieu peut changer)
 * 25 mai       2024 Course au Cristallin (lieu peut changer)
 * ? mai        2024 Course à Nantes à confirmer (lieu peut changer)
+
 ### Fun days
 
 * 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
