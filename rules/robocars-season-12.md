@@ -2,8 +2,10 @@ Règlement DIY Robocars France Saison 12
 =======================================
 
 ## Après le succès des saisons 10 & 11 à Vivatech 2022-2023
-![alt text](https://roboracingleague.github.io/images/robocars-saison-12.png "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
+![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
+## Place à la saison 12 2023-24
+![alt text](https://roboracingleague.github.io/images/robocars-saison-12.png "Robocars S10-S11-S12")  
 
 ## Objectifs de la Saison 12
 * Utiliser 2 modes de courses: mode autonome (IA Steering + IA Throttle) et mode copilote (IA Steering + Humain Throttle)
