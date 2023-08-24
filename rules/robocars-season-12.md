@@ -139,6 +139,8 @@ Les LIDARs peuvent cependant faciliter la détections des autres robocars
 * Les cônes ont une base carrée de 20cm
 Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du début du virage
 
+* Une des lignes droites sera libre de cônes
+
 
 ## Résultats des courses, points de championnat et classement
 
