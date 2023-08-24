@@ -4,6 +4,7 @@ Règlement DIY Robocars France Saison 12
 ## Après le succès de la clotûre des saisons 10 & 11 à Vivatech 2022-2023
 ![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
 
+
 ## Objectifs de la Saison 12
 * Utiliser 2 modes de courses: mode autonome (IA Steering + IA Throttle) et mode copilote (IA Steering + Humain Throttle)
 * Avoir de Robocars qui gèrent les évitements et les dépassements
@@ -11,13 +12,22 @@ Règlement DIY Robocars France Saison 12
 * Partager les innovations dans le cadre de fun days
 * Organiser des courses dans plusieurs lieux
 
+
 ## Calendrier des 4 journées de courses et 2 fun days
-* 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
+### Courses
+
 * 18 novembre  2023 Course au Cristallin (lieu peut changer)
-* 20 janvier   2024 Course au Cristallin (lieu peut changer)
-*  3 février   2023 Fun day au Cristallin (lieu peut changer)
-* 16 mars      2023 Course au Cristallin (lieu peut changer)
-* 25 mai       2023 Course au Cristallin (lieu peut changer)
+* 20 janvier   2024 Course au Techno Centre Renault (lieu peut changer)
+* 16 mars      2024 Course au Cristallin (lieu peut changer)
+* 30 mars      2024 Course au Saclay (lieu peut changer)
+* 25 mai       2024 Course au Cristallin (lieu peut changer)
+* ? mai        2024 Course à Nantes à confirmer (lieu peut changer)
+
+### Fun days
+
+* 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
+*  3 février   2024 Fun day au Cristallin (lieu peut changer)
+
 
 ## Robocar
 * Echelle entre 1/18 et 1/10 (1/10 recommandé)
@@ -29,11 +39,16 @@ Règlement DIY Robocars France Saison 12
 * Les LIDARs sont autorisés mais non recommandés (Meetup basé sur la vision) et placent automatiquement la voiture dans une catégorie spécifique LIDAR
 * Les carrosseries SONT obligatoires cette saison pour être elligible aux points de championnat
 
-## Essais libres
-* La phase d'essais libres sera divisée en sessions de 15' avec au maximum 3 voitures simultanément sur la piste.
-* l'ordre de passage lors des essais libres sera établi lors des inscriptions aux courses
-* Chaque session sera divisée en 2 périodes de 7,5' permettant l'entrainement dans les 2 sens CW et CCW.
-* Durant la phase d'entrainement, la piste sera en configuration Sprint (Sans obstacles)
+
+## Modes de course
+
+### **Mode autonome**
+- C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
+
+### **Mode copilote**
+- Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
+Ce mode hybride ressemble à une version évoluée des slot cars ;-)
+
 
 ## Courses
 
@@ -81,14 +96,11 @@ Règlement DIY Robocars France Saison 12
 
 * Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
 
-## Modes de course
-
-### **Mode autonome**
-- C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
-
-### **Mode copilote**
-- Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
-Ce mode hybride ressemble à une version évoluée des slot cars ;-)
+## Essais libres
+* La phase d'essais libres sera divisée en sessions de 15' avec au maximum 3 voitures simultanément sur la piste.
+* l'ordre de passage lors des essais libres sera établi lors des inscriptions aux courses
+* Chaque session sera divisée en 2 périodes de 7,5' permettant l'entrainement dans les 2 sens CW et CCW.
+* Durant la phase d'entrainement, la piste sera en configuration Sprint (Sans obstacles)
 
 
 ## Piste
@@ -139,9 +151,6 @@ Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du dé
 * En cas d'égalité de points, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
 
-## Prix
-
-* Dotation à déterminer 
 
 ## Journée de course type
 Arrivée racers 9h - 9h30 au plus tard
@@ -159,3 +168,7 @@ Arrivée racers 9h - 9h30 au plus tard
   - 12h10 - 12h40 Slalom CW+CCW 5T (Chrono avec 14 cônes sur la piste)
   - 12h45 - 13h15 Carnage CCW 5T (Face To Face sans cônes sur la piste)
   
+
+## Prix
+
+* Dotation à déterminer 
