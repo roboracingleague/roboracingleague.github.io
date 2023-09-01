@@ -91,11 +91,11 @@ Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 
   - La première voiture à compléter 5 tours remportera la manche.  
 
-  - Toucher l'arrière d'une voiture obstacle statique est éliminatoire pour la manche
+  - Toucher l'arrière d'un autre véhicule en course est éliminatoire pour la manche
 
   - En cas d'une incapacité d'une voiture à compléter les 5 tours, le nombre de virages franchis sera retenu pour le classement et non le temps
 
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets dans chaque sens sans toucher de cône obstacle)
+  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets sans toucher le pare-choc d'un autre véhicule)
 
 * Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
 
@@ -103,7 +103,7 @@ Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 * La phase d'essais libres sera divisée en sessions de 15' avec au maximum 3 voitures simultanément sur la piste.
 * l'ordre de passage lors des essais libres sera établi lors des inscriptions aux courses
 * Chaque session sera divisée en 2 périodes de 7,5' permettant l'entrainement dans les 2 sens CW et CCW.
-* Durant la phase d'entrainement, la piste sera en configuration Sprint (Sans obstacles)
+* Durant la phase d'entrainement, la piste sera sans obstacles
 
 
 ## Piste
