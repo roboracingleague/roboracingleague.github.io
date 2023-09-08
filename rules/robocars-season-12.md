@@ -36,7 +36,7 @@ Règlement DIY Robocars France Saison 12
 * Echelle entre 1/18 et 1/10 (1/10 recommandé)
 * Les voitures doivent fonctionner en autonomie totale lors des épreuves
 * Tous les types de caméras sont autorisées, mono, stéréo...
-* Un émetteur spécifique pour le système de chronométrage sera peut-être obligatoire
+* Un émetteur spécifique pour le système de chronométrage sera peut-être obligatoire. Prévoyez dans tous les cas une alimentation 5v disponible.
 * Les LIDARs sont autorisés mais non recommandés (Meetup basé sur la vision) et placent automatiquement la voiture dans une catégorie spécifique LIDAR
 * Les carrosseries SONT obligatoires cette saison pour être elligible aux points de championnat
 
