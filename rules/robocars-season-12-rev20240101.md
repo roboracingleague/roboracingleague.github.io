@@ -1,23 +1,24 @@
 Règlement DIY Robocars France Saison 12
-=======================================
 
 ## Après le succès des saisons 10 & 11 à Vivatech 2022-2023
-![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")  
+
+![alt text](https://roboracingleague.github.io/images/vivatech-2022-robocars-foule.jpg "Foule au Grand Prix Robocars Renault Digital - Vivatech 2022")
 
 ## Place à la saison 12 2023-24
-![alt text](https://roboracingleague.github.io/images/robocars-saison-12.png "Robocars S10-S11-S12")  
+
+![alt text](https://roboracingleague.github.io/images/robocars-saison-12.png "Robocars S10-S11-S12")
 
 ## Objectifs de la Saison 12
+
 * Utiliser 2 modes de courses: mode autonome (IA Steering + IA Throttle) et mode copilote (IA Steering + Humain Throttle)
 * Avoir de Robocars qui gèrent les évitements et les dépassements
 * Allonger les courses à 5T pour valider la robustesse des IA des Robocars
 * Partager les innovations dans le cadre de fun days
 * Organiser des courses dans plusieurs lieux
 
-
 ## Calendrier des 6 journées de courses et 2 fun days
 
-### Courses
+### Journées de Courses
 
 * 18 novembre  2023 Course au Cristallin (lieu peut changer)
 * 20 janvier   2024 Course au Techno Centre Renault (lieu peut changer)
@@ -29,10 +30,10 @@ Règlement DIY Robocars France Saison 12
 ### Fun days
 
 * 14 octobre   2023 Fun day au Cristallin (lieu peut changer)
-*  3 février   2024 Fun day au Cristallin (lieu peut changer)
-
+* 3 février   2024 Fun day au Cristallin (lieu peut changer)
 
 ## Robocars
+
 * Echelle entre 1/18 et 1/10 (1/10 recommandé)
 * Les voitures doivent fonctionner en autonomie totale lors des épreuves
 * Tous les types de caméras sont autorisées, mono, stéréo...
@@ -42,83 +43,87 @@ Règlement DIY Robocars France Saison 12
 * Les LIDARs sont autorisés mais non recommandés (Meetup basé sur la vision) et placent automatiquement la voiture dans une catégorie spécifique LIDAR
 * Les carrosseries SONT obligatoires cette saison pour être elligible aux points de championnat
 
-
 ## Modes de course
 
 ### **Mode AI**
-- C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
+
+* C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
 
 ### **Mode COPILOT**
-- Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
+* Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
 Ce mode hybride ressemble à une version évoluée des slot cars ;-)
-
 
 ## Courses
 
 * **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
 
-  - Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire sur 3 tours.  
+  * Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire sur 3 tours.
   Puis à nouveau  2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire sur 3 tours
 
-  - Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens.  
+  * Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens.
   Le chronométrage sera manuel ou automatique suivant le matériel disponible
-  
-  - Le départ pour chaque essai sera donné par l'organisation
-  
-  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
 
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (3 tours complets dans chaque sens sans sortie de piste)
+  * Le départ pour chaque essai sera donné par l'organisation
 
-  - Une sortie de piste est avérée lorsque les 4 roues sont en dehors de la piste
+  * En cas d'incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour le classement
 
+  * Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (3 tours complets dans chaque sens sans sortie de piste)
+
+  * Une sortie de piste est avérée lorsque les 4 roues sont en dehors de la piste
 
 * **Slalom** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
 
-  - Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 3 tours.  
+  * Chaque voiture a 2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens horaire (CW) sur 3 tours.
   Puis à nouveau  2 essais pour établir le meilleur temps possible en empruntant la piste dans le sens anti-horaire(CCW) sur 3 tours
-  
-  - Le classement sur cette épreuve dépendra de 2 facteurs. Premièrement le nombre de cônes touchés (Un cône est considéré touché lorsque la balle placée dessus tombe au sol) puis le temps total (somme des temps dans chaque sens). Une voiture qui ne renverse le moins de cônes sera classée devant une voiture qui en renverse plus. Si le nombre de cônes renversés est le même, le chrono le plus rapide l'emporte.  
+
+  * Le classement sur cette épreuve dépendra de 2 facteurs. Premièrement le nombre de cônes touchés (Un cône est considéré touché lorsque la balle placée dessus tombe au sol) puis le temps total (somme des temps dans chaque sens). Une voiture qui renverse des cônes sera classée devant une voiture qui en renverse plus. Si le nombre de cônes renversés est le même, le chrono le plus rapide l'emporte.
   Le chronométrage sera manuel ou automatique suivant le matériel disponible
-  
-  - Le départ pour chaque essai sera donné par l'organisation
-  
-  - Il y aura 10 cônes obstacles statiques positionnées avant le départ de la course aux emplacements prévus. Le pilote doit replacer les cônes renversés et balles tombées. En cas d'incapacité à remettre en place les cônes avant le passage de la voiture, l'essai sera annulé. Seul le pilote pourra replacer les cônes. 
-  La remise en place des cône est soumise à validation de l'organisation  
 
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (3 tours complets dans chaque sens en renversant 6 cônes ou moins sur les 2 meilleurs essais, 1 CW et 1 CCW)
+  * Le départ pour chaque essai sera donné par l'organisation
 
-* **Carnage** CW ou CCW (CW = ClockWise / CCW = Counter ClockWise)
+  * Il y aura 10 cônes obstacles statiques positionnées avant le départ de la course aux emplacements prévus. Le pilote doit replacer les cônes renversés et balles tombées. En cas d'incapacité à remettre en place les cônes avant le passage de la voiture, l'essai sera annulé. Seul le pilote pourra replacer les cônes.
+  La remise en place des cône est soumise à validation de l'organisation.
 
-  - Il y aura une course carnage CW et une carnage CCW, elles seront indépendantes
+  * Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (3 tours complets dans chaque sens en renversant au maximum 6 cônes sur les 2 meilleurs essais)
 
-  - Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement du ***Slalom***.  
-  Le premier du classement du Slalom affrontera le dernier.  
-  Le 2e affrontera l'avant-dernier.  
-  Le premier du classement du Slalom affrontera le dernier.   
+* **Lane Racing** CW (CW = ClockWise)
+
+  * Il y aura une course lane racing CW
+
+  * Trois concurrents (déterminé par les résultats des épreuves précédentes) devront s'affronter simultanément sur la piste.Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement du ***Slalom***.
+  Le premier du classement du Slalom affrontera le dernier.
+  Le 2e affrontera l'avant-dernier.
+  Le premier du classement du Slalom affrontera le dernier.
   etc.
 
-  - Chaque affrontement sera remporté par celui des 2 adversaires qui remporte 2 des 3 manches
+  * Chaque affrontement sera remporté par celui des 3 adversaires qui remporte la course
 
-  - Chaque manche verra les 2 opposants se positionner sur la grille de départ type Formule 1 en fonction de son classement lors du **Slalom**
-  
-  - Le départ sera donné par l'organisation
+  * Chaque manche verra les 3 opposants se positionner sur une grille de départ type "24h Le Mans" : en épi, espacées de 1,20, sur le bord intérieur d'une ligne droite, en fonction de son classement lors du **Slalom**
 
-  - La première voiture à compléter 5 tours remportera la manche.  
+  * Le départ sera donné par l'organisation
 
-  - Toucher l'arrière d'un autre véhicule en course est éliminatoire pour la manche
+  * La première voiture à compléter 3 tours remportera la manche.
 
-  - En cas d'une incapacité d'une voiture à compléter les 5 tours, le nombre de virages franchis sera retenu pour le classement et non le temps
+  * les voitures doivent choisir une voie de circulation (gauche ou droite), et ne peuvent en changer que dans une ligne droite. Un seul changement de voie est autorisé par ligne droite.
 
-  - Les points de championnat associés au classement de la course ne seront attribués que si le challenge est complété (5 tours complets sans toucher le pare-choc d'un autre véhicule)
+  * Les voitures ont interdiction de changer de voie dans les sections à virage.
 
-* Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses 
+  * Un changement de voie est caractérisé par les 4 roues qui traversent la ligne centrale
+
+  * Une voiture qui en percute une autre sera déclarée fautive et subira une élimination si :
+    * Elle percute l'autre par l'arrière
+    * Elle percute l'autre en ayant débordé sur sa voie
+
+  * une voiture qui se retrouve seule en piste pour cause d'élimination des concurrents, doit finir un tour complet pour valider ses points.
+
+* Entre 2 et 5 robocars, soumises aux mêmes règles que tous, seront engagées par l'organisation à chaque course pour pimenter les courses
 
 ## Essais libres
+
 * La phase d'essais libres sera divisée en sessions de 15' avec au maximum 3 voitures simultanément sur la piste.
 * l'ordre de passage lors des essais libres sera établi lors des inscriptions aux courses
 * Chaque session sera divisée en 2 périodes de 7,5' permettant l'entrainement dans les 2 sens CW et CCW.
 * Durant la phase d'entrainement, la piste sera sans obstacles
-
 
 ## Piste
 
@@ -126,7 +131,7 @@ Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 ![alt text](https://roboracingleague.github.io/images/robocars-track-s12.png "S12 track")
 
 **S12 track dimensions**
-![alt text](https://roboracingleague.github.io/images/robocars-track-s12-dims.png "S12 track dimensions")  
+![alt text](https://roboracingleague.github.io/images/robocars-track-s12-dims.png "S12 track dimensions")
 
 * La piste sera installée sur une moquette de couleur noire et grise. Ou sur un sol uni.
 
@@ -135,8 +140,8 @@ Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 * La piste à une largeur uniforme de 1m incluant les rubans de 5 cm de chaque côté de la piste.
 
 * Le rayon des virages, mesure depuis le centre de la piste, est de 1m. L'intérieur d'un virage a donc un rayon de 50cm et l'extérieur de 1m50.
-Il n'y a pas de murets délimitant la piste.  
-Les LIDARs ne peuvent donc pas être utilisés pour détecter la piste.  
+Il n'y a pas de murets délimitant la piste.
+Les LIDARs ne peuvent donc pas être utilisés pour détecter la piste.
 Les LIDARs peuvent cependant faciliter la détections des autres robocars
 
 * Des vibreurs installés à l'intérieur des virages, sans empiéter sur le scotch, permettront de mieux visualiser les virages
@@ -146,7 +151,6 @@ Les LIDARs peuvent cependant faciliter la détections des autres robocars
 
 * Une arche de chronométrage sera présente sur la ligne de départ/arrivée. Les pieds de support des arches seront placés à l'extérieur de la piste à 10cm de son bord. Optionnel
 
-
 **Emplacements possibles pour les cônes obstacles**
 ![alt text](https://roboracingleague.github.io/images/robocars-track-s12-cones.png "S12 track cones")
 
@@ -155,39 +159,38 @@ Le centre des cônes sera à 25cm d'un des 2 côtés de la piste et à 1m du dé
 
 * Une des lignes droites sera libre de cônes
 
-
 ## Résultats des courses, points de championnat et classement
 
-* Les point de championnat sont attribués à l'issue de chaque course du 1er au 10e suivant la répartition suivante:    
+* Les point de championnat sont attribués à l'issue de chaque course du 1er au 10e suivant la répartition suivante:
 25 - 18 - 15 - 12 - 10 - 8 - 6 - 4 - 2 - 1
-* Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée  
+* Les points de championnat associés au classement de la course ne seront attribués que si l'épreuve est complétée
 * Les points de championnat gagnés lors de chaque course ne seront réellement comptabilisés que si au moins 3 voitures réussissent l'épreuve
 * Les points de championnat seront accummulés sur l'ensemble des courses, la voiture ayant accummulé le plus de points sera déclarée gagnante du championnat open
 * Le Slalom est qualificatif pour le Carnage. Si le challenge n'est pas relevé, la participation au Carnage ne sera pas possible
-* Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).  
+* Les participants recevront des points de participation pour chaque départ effectué lors des épreuves (si la voiture ne démarre pas la présence ne sera pas comptabilisée).
 12 points de présence seront donc attribués lors de chaque course aux participants et qui franchiront a minima les 3 premiers virages du circuit dans les 2 sens lorsque le challenge s'y prête
 * La présence d'une carrosserie est obligatoire pour être classé
 * En cas d'égalité de points, les nombres de 1ere, 2eme, 3eme places seront comptabilisées. En dernier ressort, les courses en présence des 2 voitures seront considérées. Et sinon, un tirage au sort
 * Les classement Vision et LIDAR permettront de comparer des voitures aux capacités comparables
 
-
 ## Journée de course type
-Arrivée racers 9h - 9h30 au plus tard
-* Courses
-  - Installation piste 9h-9h45
 
-  ESSAIS LIBRES 
-  - 9h45 - 11h00 essais libres (sans cônes sur la piste)
-  
+Arrivée racers 9h - 9h30 au plus tard
+
+* Courses
+  * Installation piste 9h-9h45
+
+  ESSAIS LIBRES
+  * 9h45 - 11h00 essais libres (sans cônes sur la piste)
+
   EPREUVES EN MODE AUTONOME
-  - 11h00 - 11h30 Slalom CW+CCW 5T (Chrono avec 12 cônes sur la piste)
-  - 11h35 - 12h05 Carnage CW 5T (Face To Face sans cônes sur la piste)
-  
+  * 11h00 - 11h30 Slalom CW+CCW 5T (Chrono avec 12 cônes sur la piste)
+  * 11h35 - 12h05 Carnage CW 5T (Face To Face sans cônes sur la piste)
+
   EPREUVES EN MODE COPILOTE
-  - 12h10 - 12h40 Slalom CW+CCW 5T (Chrono avec 12 cônes sur la piste)
-  - 12h45 - 13h15 Carnage CCW 5T (Face To Face sans cônes sur la piste)
-  
+  * 12h10 - 12h40 Slalom CW+CCW 5T (Chrono avec 12 cônes sur la piste)
+  * 12h45 - 13h15 Carnage CCW 5T (Face To Face sans cônes sur la piste)
 
 ## Prix
 
-* Dotation à déterminer 
+* Dotation à déterminer
