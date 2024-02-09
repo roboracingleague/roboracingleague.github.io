@@ -1,4 +1,4 @@
-Règlement DIY Robocars France Saison 12
+# Règlement DIY Robocars France Saison 12
 
 ## Après le succès des saisons 10 & 11 à Vivatech 2022-2023
 
@@ -50,6 +50,7 @@ Règlement DIY Robocars France Saison 12
 * C'est le mode utilisé depuis le début des courses robocars, la robocar gère la vitesse et le braquage
 
 ### **Mode COPILOT**
+
 * Nouveau mode de course que nous testons cette année qui laisse le contrôle du braquage à l'IA mais donne le contrôle de la vitesse au pilote.
 Ce mode hybride ressemble à une version évoluée des slot cars ;-)
 
