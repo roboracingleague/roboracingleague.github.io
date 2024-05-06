@@ -28,6 +28,7 @@ Un tirage au sort effectué en présence des équipes ayant participé au meetup
 ## Déroulement
 
 Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de :
+
 1. Une course sprint en full autonomie (ordre de passage défini ci-dessus)
 1. Une course sprint en mode copilot (vous gérez la vitesse, l'IA gère la conduite) (ordre de passage déterminé par le classement général)
 1. Une battle en full autonomie (tableau de tournoi déterminé par le classement général)
@@ -65,43 +66,43 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 
 * **Sprint** CW+CCW (CW = ClockWise / CCW = Counter ClockWise)
 
-  - Chaque voiture a 5 minutes pour réaliser 4 essais afin d'établir le meilleur temps possible dans le sens horaire (CW) ET anti-horaire (CCW).
+  * Chaque voiture a 5 minutes pour réaliser 4 essais afin d'établir le meilleur temps possible dans le sens horaire (CW) ET anti-horaire (CCW).
 
-  - L'équipe devra réaliser au maximum 2 essais dans le sens horaire (CW) et 2 essais dans le sens anti-horaire (CCW).
+  * L'équipe devra réaliser au maximum 2 essais dans le sens horaire (CW) et 2 essais dans le sens anti-horaire (CCW).
 
-  - Le sens de chaque essai sera : 1er CW, 2eme CCW, 3eme et 4eme au choix
+  * Le sens de chaque essai sera : 1er CW, 2eme CCW, 3eme et 4eme au choix
 
-  - Un essai est considéré comme réussi dès lors que 3 tours ont été effectué en respectant les Règles de conduite
+  * Un essai est considéré comme réussi dès lors que 3 tours ont été effectués en respectant les Règles de conduite
 
-  - Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens.
+  * Le temps comptabilisé sera la somme des meilleurs temps dans chaque sens.
 
-  - Le chronométrage se fera automatiquement à l'aide de l'arche de chronométrage. En cas de déffaillance du chronométrage automatique, un chronométrage manuel sera effectué en parrallèle. Le chronométrage commence et se termine lorsque le capteur de chronométrage passe sous l'arche.
+  * Le chronométrage se fera automatiquement à l'aide de l'arche de chronométrage. En cas de déffaillance du chronométrage automatique, un chronométrage manuel sera effectué en parrallèle. Le chronométrage commence et se termine lorsque le capteur de chronométrage passe sous l'arche.
 
-  - Le départ pour chaque essai sera donné par l'organisation
+  * Le départ pour chaque essai sera donné par l'organisation
 
-  - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour établir un temps de course à l'aide de la forume suivante : 600s - 5s * nb virages réussis
+  * En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour établir un temps de course à l'aide de la forume suivante : 600s - 5s * nb virages réussis
 
 * **Battle**
 
-  - Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement général.
+  * Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement général.
   Le premier du classement affrontera le dernier.
   Le 2e affrontera l'avant-dernier.
   etc.
 
-  - Les affrontements se déroulent en 3 manches
+  * Les affrontements se déroulent en 3 manches
 
-  - Chaque affrontement sera remporté par celui des 2 adversaires qui remporte 2 des 3 manches
+  * Chaque affrontement sera remporté par celui des 2 adversaires qui remporte 2 des 3 manches
 
-  - Chaque manche verra les 2 opposants se positionner aux opposés de la piste pour le départ (La position sera alternée à chaque manche)
+  * Chaque manche verra les 2 opposants se positionner aux opposés de la piste pour le départ (La position sera alternée à chaque manche)
 
-  - Le départ sera donné par l'organisation
+  * Le départ sera donné par l'organisation
 
-  - Le sens de la course sera défini par un jet à pile ou face.
+  * Le sens de la course sera défini par un jet à pile ou face.
 
-  - La manche sera remportée par :
-    - La voiture qui rattrape l'autre en s'approchant à moins de 30cm de son pare-choc arrière, et en respectant les Règles de Conduite
-    - A défaut la première voiture à compléter 3 tours en respectant les Règles de Conduite
-    - A défaut la voiture qui ira le plus loin avant de faire une infraction aux règles de conduite
+  * La manche sera remportée par :
+    * La voiture qui rattrape l'autre en s'approchant à moins de 30cm de son pare-choc arrière, et en respectant les Règles de Conduite
+    * A défaut la première voiture à compléter 3 tours en respectant les Règles de Conduite
+    * A défaut la voiture qui ira le plus loin avant de faire une infraction aux règles de conduite
 
 ## Résultats des courses, points de championnat et classement
 
@@ -117,5 +118,3 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 ## Prix
 
 * Une coupe sera remise au premier du classement par points
-
-* Les équipes Renault seront classées dans le tableau final mais ne peuvent pas prétendre aux dotations.
