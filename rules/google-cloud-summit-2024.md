@@ -81,7 +81,7 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
 
   - En cas d'une incapacité d'une voiture à établir un chronométrage validé, le nombre de virages franchis sera retenu pour établir un temps de course à l'aide de la forume suivante : 600s - 5s * nb virages réussis
 
-* **Battle** CW or CCW (CW = ClockWise / CCW = Counter ClockWise)
+* **Battle**
 
   - Un tableau de 1/16 ou 1/8 de finale permettra de positionner les participants en fonction du classement général.
   Le premier du classement affrontera le dernier.
@@ -95,6 +95,8 @@ Sur le modèle des meetups mensuels, le Grand Prix se composera cette année de 
   - Chaque manche verra les 2 opposants se positionner aux opposés de la piste pour le départ (La position sera alternée à chaque manche)
 
   - Le départ sera donné par l'organisation
+
+  - Le sens de la course sera défini par un jet à pile ou face.
 
   - La manche sera remportée par :
     - La voiture qui rattrape l'autre en s'approchant à moins de 30cm de son pare-choc arrière, et en respectant les Règles de Conduite
